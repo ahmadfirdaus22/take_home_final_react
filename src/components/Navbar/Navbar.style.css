@@ -1,0 +1,14 @@
+nav{
+    background-color : rgb(182, 180, 180) ;
+    padding : 10px;
+    color : white;
+    display: flex;
+    gap: 30px;
+    padding-left: 50px;
+}
+
+.logo{
+    margin: 10px;
+    font-size: large;
+    color: black;
+}

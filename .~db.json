@@ -1,0 +1,246 @@
+{
+  "author": [
+    {
+      "id": 1,
+      "value": "William Shakespeare",
+      "label": "William Shakespeare",
+      "biography": "William Shakespeare was an English playwright, poet and actor. He is widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the"
+    },
+    {
+      "id": 2,
+      "value": "Arthur Conan Doyle",
+      "label": "Arthur Conan Doyle",
+      "biography": "Sir Arthur Ignatius Conan Doyle KStJ DL (22 Mei 1859 – 7 Juli 1930) adalah pengarang cerita fiksi terkenal berkebangsaan Inggris. Salah satu karangannya yang paling terkenal adalah serial petualangan Sherlock Holmes, seorang detektif fiksi yang eksentrik."
+    },
+    {
+      "id": 3,
+      "value": "Morgan Housel",
+      "label": "Morgan Housel",
+      "biography": "Morgan Housel is a partner at the Collaborative Fund, a venture capital firm backing young companies that are moving the world forward. Previously, he was a columnist at The Wall Street Journal and an analyst at The Motley Fool. He is a two-time winner of the Best in Business Award from the Society of American Business Editors and Writers and was selected by the Columbia Journalism Review for the Best Business Writing"
+    },
+    {
+      "value": "J.K Rowling",
+      "label": "J.K Rowling",
+      "biography": "Joanne Rowling, CH, OBE, FRCPE, FRSL (/ˈroʊlɪŋ/ roh-ling;[1] lahir 31 Juli 1965), dikenal dengan nama pena J.K. Rowling, adalah seorang penulis, filantropis, produser film, dan penulis skenario Inggris. Dia adalah penulis seri Harry Potter, yang telah memenangkan banyak penghargaan dan terjual lebih dari 500 juta kopi pada tahun 2018,[2] dan pada 2008 menjadi seri buku anak-anak terlaris dalam sejarah.[3] Buku-buku tersebut menjadi landasan diproduksinya seri film populer. Rowling juga menulis fiksi kriminal dengan nama pena Robert Galbraith.",
+      "id": 4
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Shakespeare's plays",
+      "author": "William Shakespeare",
+      "authorId": 1,
+      "genre": "Drama",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/8/82/Gilbert_WShakespeares_Plays.jpg",
+      "desc": "Shakespeare's plays portray recognisable people in situations that we can all relate to - including love, marriage, death, mourning, guilt, the need to make difficult choices, separation, reunion and reconciliation. They do so with great humanity, tolerance, and wisdom. They help us to understand what it is to be human, and to cope with the problems of being so.  "
+    },
+    {
+      "id": 2,
+      "title": "Hamlet",
+      "author": "William Shakespeare",
+      "authorId": 1,
+      "genre": "Tragedy",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Hamlet_-_Michele_Rapisardi.jpg/220px-Hamlet_-_Michele_Rapisardi.jpg",
+      "desc": "Tragedi ini menceritakan tentang seorang raja yang meninggal dengan misterius, jandanya lalu menikah dengan saudaranya. Arwah sang raja menghantui istana kerajaan. Ia ingin anaknya, Hamlet, untuk membalas dendam. Pangeran Hamlet yang berjiwa sensitif bersumpah untuk membalas dendam dengan segala cara yang akhirnya harus dibayar dengan mahal."
+    },
+    {
+      "id": 3,
+      "title": "Romeo and Juliet",
+      "author": "William Shakespeare",
+      "authorId": 1,
+      "genre": "Tragedy",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Romeo_and_juliet_brown.jpg/220px-Romeo_and_juliet_brown.jpg",
+      "desc": "Romeo dan Julia adalah tragedi karya William Shakespeare yang ditulis pada awal kariernya. Tragedi ini mengisahkan sepasang mempelai muda yang saling jatuh cinta, tetapi terhalang karena kedua keluarga mereka saling bermusuhan.[1] Romeo, dan Julia merupakan salah satu karya Shakespeare yang paling terkenal, dan juga merupakan salah satu karyanya yang paling sering dipentaskan selain Hamlet dan Macbeth."
+    },
+    {
+      "title": "Sherlock Holmes: A Scandal in Bohemia",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Strand1891-V2_0065_%28cropped%29.png/220px-Strand1891-V2_0065_%28cropped%29.png",
+      "desc": "\"A Scandal in Bohemia\" is the first short story, and the third overall work, featuring Arthur Conan Doyle's fictional detective Sherlock Holmes. It is the first of the 56 Holmes short stories written by Doyle and the first of 38 Sherlock Holmes works illustrated by Sidney Paget. The story is notable for introducing the character of Irene Adler, who is one of the most notable female characters in the Sherlock Holmes series, despite appearing in only one story.[1] Doyle ranked \"A Scandal in Bohemia\" fifth in his list of his twelve favourite Holmes stories.[2]",
+      "authorId": 2,
+      "genre": "Mystery",
+      "author": "Arthur Conan Doyle",
+      "id": 4
+    },
+    {
+      "title": "The Tempest",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/First-page-first-folio-tempest.jpg/220px-First-page-first-folio-tempest.jpg",
+      "desc": "The Tempest adalah sandiwara komedi atau roman karya William Shakespeare yang ditulis sekitar tahun 1610-1611. Mulanya tidak begitu diminati oleh orang-orang, tetapi pada abad keduapuluh sandiwara ini mendapat pujian dari para kritikus dan ahli, hingga disebut sebagai salah satu karya terbaik Shakespeare. Terjemahan ke dalam bahasa Indonesianya berjudul Prahara dan dilakukan oleh Trisno Sumardjo.[1] Gramedia menerbitkan The Tempest pada tahun 1977 dengan judul Ferdinand dan Miranda.",
+      "authorId": 1,
+      "genre": "Drama",
+      "author": "William Shakespeare",
+      "id": 5
+    },
+    {
+      "title": "The Psychology of Money: Timeless lessons on wealth, greed, and happiness ",
+      "cover": "https://m.media-amazon.com/images/I/41v+g6LqafL._SX322_BO1,204,203,200_.jpg",
+      "desc": "Doing well with money isn’t necessarily about what you know. It’s about how you behave. And behavior is hard to teach, even to really smart people.\n\nMoney―investing, personal finance, and business decisions―is typically taught as a math-based field, where data and formulas tell us exactly what to do. But in the real world people don’t make financial decisions on a spreadsheet. They make them at the dinner table, or in a meeting room, where personal history, your own unique view of the world, ego, pride, marketing, and odd incentives are scrambled together.\n\nIn The Psychology of Money, award-winning author Morgan Housel shares 19 short stories exploring the strange ways people think about money and teaches you how to make better sense of one of life’s most important topics.",
+      "authorId": 3,
+      "genre": "Romance",
+      "author": "Morgan Housel",
+      "id": 7
+    },
+    {
+      "title": "Harry Potter and The Philsopher Stone",
+      "cover": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkWXbfQrO5oTm1I5izjeRTbQD-vKPnybT24S2kFw2eH8LyyCo5",
+      "desc": "Harry Potter dan Batu Bertuah adalah novel fantasi karangan penulis Inggris J. K. Rowling yang merupakan novel pertama dalam seri Harry Potter dan novel debut Rowling. Novel ini mengisahkan mengenai Harry Potter, seorang anak yatim piatu yang mengetahui bahwa ia adalah penyihir pada ulang tahunnya yang kesebelas, ketika ia menerima undangan untuk menghadiri Sekolah Sihir Hogwarts. Harry menjalin pertemanan dan permusuhan pada tahun pertamanya di sekolah, dan dengan bantuan teman-temannya, ia menggagalkan upaya penyihir hitam Lord Voldemort untuk bangkit kembali. Voldemort adalah penyihir yang membunuh orang tua Harry, tetapi gagal membunuhnya ketika ia berusia 15 bulan",
+      "authorId": 4,
+      "genre": "Fantasy",
+      "author": "J.K Rowling",
+      "id": 8
+    },
+    {
+      "title": "Harry Potter and The Philsopher Stone",
+      "cover": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkWXbfQrO5oTm1I5izjeRTbQD-vKPnybT24S2kFw2eH8LyyCo5",
+      "desc": "Harry Potter dan Batu Bertuah adalah novel fantasi karangan penulis Inggris J. K. Rowling yang merupakan novel pertama dalam seri Harry Potter dan novel debut Rowling. Novel ini mengisahkan mengenai Harry Potter, seorang anak yatim piatu yang mengetahui bahwa ia adalah penyihir pada ulang tahunnya yang kesebelas, ketika ia menerima undangan untuk menghadiri Sekolah Sihir Hogwarts. Harry menjalin pertemanan dan permusuhan pada tahun pertamanya di sekolah, dan dengan bantuan teman-temannya, ia menggagalkan upaya penyihir hitam Lord Voldemort untuk bangkit kembali. Voldemort adalah penyihir yang membunuh orang tua Harry, tetapi gagal membunuhnya ketika ia berusia 15 bulan",
+      "authorId": 4,
+      "genre": "Fantasy",
+      "author": "J.K Rowling",
+      "id": 9
+    },
+    {
+      "title": "Harry Potter and The Chamber of Secret",
+      "cover": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyDaN5FijaQ_3OuhFtfYLkXDkAfv07RnKNiNwUzbvOjAE2V9EQ",
+      "desc": "Harry Potter disuruh mempersiapkan rumah untuk kunjungan dari klien potensial Vernon Dursley. Namun, setelah selesai, paman Dursley menyuruh Harry ke kamarnya. Di kamar, Harry bertemu Dobby si peri rumah, ia memperingatkan Harry untuk tidak kembali ke Hogwarts. Ketika Harry menolak, Dobby menyebabkan kekacauan di rumah dan membuat Harry merusak pertemuan Vernon. Vernon mengunci Harry di kamarnya untuk mencegah kembali ke Hogwarts. Namun, Ron, Fred, dan George Weasley tiba dengan mobil terbang mereka untuk menyelamatkan Harry dari cengkeraman Paman Vernon, yang sedang berusaha untuk menarik Harry kembali ke kamarnya. Harry kemudian dibawa ke The Burrow, rumah keluarga Weasley.",
+      "authorId": 4,
+      "genre": "Fantasy",
+      "author": "J.K Rowling",
+      "id": 10
+    },
+    {
+      "title": "Harry Potter and The Chamber of Secret",
+      "cover": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyDaN5FijaQ_3OuhFtfYLkXDkAfv07RnKNiNwUzbvOjAE2V9EQ",
+      "desc": "Harry Potter disuruh mempersiapkan rumah untuk kunjungan dari klien potensial Vernon Dursley. Namun, setelah selesai, paman Dursley menyuruh Harry ke kamarnya. Di kamar, Harry bertemu Dobby si peri rumah, ia memperingatkan Harry untuk tidak kembali ke Hogwarts. Ketika Harry menolak, Dobby menyebabkan kekacauan di rumah dan membuat Harry merusak pertemuan Vernon. Vernon mengunci Harry di kamarnya untuk mencegah kembali ke Hogwarts. Namun, Ron, Fred, dan George Weasley tiba dengan mobil terbang mereka untuk menyelamatkan Harry dari cengkeraman Paman Vernon, yang sedang berusaha untuk menarik Harry kembali ke kamarnya. Harry kemudian dibawa ke The Burrow, rumah keluarga Weasley.",
+      "authorId": 4,
+      "genre": "Fantasy",
+      "author": "J.K Rowling",
+      "id": 11
+    },
+    {
+      "title": "Harry Potter and The Chamber of Secret",
+      "cover": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyDaN5FijaQ_3OuhFtfYLkXDkAfv07RnKNiNwUzbvOjAE2V9EQ",
+      "desc": "Harry Potter disuruh mempersiapkan rumah untuk kunjungan dari klien potensial Vernon Dursley. Namun, setelah selesai, paman Dursley menyuruh Harry ke kamarnya. Di kamar, Harry bertemu Dobby si peri rumah, ia memperingatkan Harry untuk tidak kembali ke Hogwarts. Ketika Harry menolak, Dobby menyebabkan kekacauan di rumah dan membuat Harry merusak pertemuan Vernon. Vernon mengunci Harry di kamarnya untuk mencegah kembali ke Hogwarts. Namun, Ron, Fred, dan George Weasley tiba dengan mobil terbang mereka untuk menyelamatkan Harry dari cengkeraman Paman Vernon, yang sedang berusaha untuk menarik Harry kembali ke kamarnya. Harry kemudian dibawa ke The Burrow, rumah keluarga Weasley.",
+      "authorId": 4,
+      "genre": "Fantasy",
+      "author": "J.K Rowling",
+      "id": 12
+    },
+    {
+      "title": "Harry Potter and The Chamber of Secret",
+      "cover": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyDaN5FijaQ_3OuhFtfYLkXDkAfv07RnKNiNwUzbvOjAE2V9EQ",
+      "desc": "Harry Potter disuruh mempersiapkan rumah untuk kunjungan dari klien potensial Vernon Dursley. Namun, setelah selesai, paman Dursley menyuruh Harry ke kamarnya. Di kamar, Harry bertemu Dobby si peri rumah, ia memperingatkan Harry untuk tidak kembali ke Hogwarts. Ketika Harry menolak, Dobby menyebabkan kekacauan di rumah dan membuat Harry merusak pertemuan Vernon. Vernon mengunci Harry di kamarnya untuk mencegah kembali ke Hogwarts. Namun, Ron, Fred, dan George Weasley tiba dengan mobil terbang mereka untuk menyelamatkan Harry dari cengkeraman Paman Vernon, yang sedang berusaha untuk menarik Harry kembali ke kamarnya. Harry kemudian dibawa ke The Burrow, rumah keluarga Weasley.",
+      "authorId": 4,
+      "genre": "Fantasy",
+      "author": "J.K Rowling",
+      "id": 13
+    },
+    {
+      "title": "Harry Potter and The Chamber of Secret",
+      "cover": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyDaN5FijaQ_3OuhFtfYLkXDkAfv07RnKNiNwUzbvOjAE2V9EQ",
+      "desc": "Harry Potter disuruh mempersiapkan rumah untuk kunjungan dari klien potensial Vernon Dursley. Namun, setelah selesai, paman Dursley menyuruh Harry ke kamarnya. Di kamar, Harry bertemu Dobby si peri rumah, ia memperingatkan Harry untuk tidak kembali ke Hogwarts. Ketika Harry menolak, Dobby menyebabkan kekacauan di rumah dan membuat Harry merusak pertemuan Vernon. Vernon mengunci Harry di kamarnya untuk mencegah kembali ke Hogwarts. Namun, Ron, Fred, dan George Weasley tiba dengan mobil terbang mereka untuk menyelamatkan Harry dari cengkeraman Paman Vernon, yang sedang berusaha untuk menarik Harry kembali ke kamarnya. Harry kemudian dibawa ke The Burrow, rumah keluarga Weasley.",
+      "authorId": 4,
+      "genre": "Fantasy",
+      "author": "J.K Rowling",
+      "id": 14
+    },
+    {
+      "title": "Harry Potter and The Chamber of Secret",
+      "cover": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyDaN5FijaQ_3OuhFtfYLkXDkAfv07RnKNiNwUzbvOjAE2V9EQ",
+      "desc": "Harry Potter disuruh mempersiapkan rumah untuk kunjungan dari klien potensial Vernon Dursley. Namun, setelah selesai, paman Dursley menyuruh Harry ke kamarnya. Di kamar, Harry bertemu Dobby si peri rumah, ia memperingatkan Harry untuk tidak kembali ke Hogwarts. Ketika Harry menolak, Dobby menyebabkan kekacauan di rumah dan membuat Harry merusak pertemuan Vernon. Vernon mengunci Harry di kamarnya untuk mencegah kembali ke Hogwarts. Namun, Ron, Fred, dan George Weasley tiba dengan mobil terbang mereka untuk menyelamatkan Harry dari cengkeraman Paman Vernon, yang sedang berusaha untuk menarik Harry kembali ke kamarnya. Harry kemudian dibawa ke The Burrow, rumah keluarga Weasley.",
+      "authorId": 4,
+      "genre": "Fantasy",
+      "author": "J.K Rowling",
+      "id": 15
+    },
+    {
+      "title": "Harry Potter and The Chamber of Secret",
+      "cover": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyDaN5FijaQ_3OuhFtfYLkXDkAfv07RnKNiNwUzbvOjAE2V9EQ",
+      "desc": "Harry Potter disuruh mempersiapkan rumah untuk kunjungan dari klien potensial Vernon Dursley. Namun, setelah selesai, paman Dursley menyuruh Harry ke kamarnya. Di kamar, Harry bertemu Dobby si peri rumah, ia memperingatkan Harry untuk tidak kembali ke Hogwarts. Ketika Harry menolak, Dobby menyebabkan kekacauan di rumah dan membuat Harry merusak pertemuan Vernon. Vernon mengunci Harry di kamarnya untuk mencegah kembali ke Hogwarts. Namun, Ron, Fred, dan George Weasley tiba dengan mobil terbang mereka untuk menyelamatkan Harry dari cengkeraman Paman Vernon, yang sedang berusaha untuk menarik Harry kembali ke kamarnya. Harry kemudian dibawa ke The Burrow, rumah keluarga Weasley.",
+      "authorId": 4,
+      "genre": "Fantasy",
+      "author": "J.K Rowling",
+      "id": 16
+    },
+    {
+      "title": "Harry Potter and The Chamber of Secret",
+      "cover": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyDaN5FijaQ_3OuhFtfYLkXDkAfv07RnKNiNwUzbvOjAE2V9EQ",
+      "desc": "Harry Potter disuruh mempersiapkan rumah untuk kunjungan dari klien potensial Vernon Dursley. Namun, setelah selesai, paman Dursley menyuruh Harry ke kamarnya. Di kamar, Harry bertemu Dobby si peri rumah, ia memperingatkan Harry untuk tidak kembali ke Hogwarts. Ketika Harry menolak, Dobby menyebabkan kekacauan di rumah dan membuat Harry merusak pertemuan Vernon. Vernon mengunci Harry di kamarnya untuk mencegah kembali ke Hogwarts. Namun, Ron, Fred, dan George Weasley tiba dengan mobil terbang mereka untuk menyelamatkan Harry dari cengkeraman Paman Vernon, yang sedang berusaha untuk menarik Harry kembali ke kamarnya. Harry kemudian dibawa ke The Burrow, rumah keluarga Weasley.",
+      "authorId": 4,
+      "genre": "Fantasy",
+      "author": "J.K Rowling",
+      "id": 17
+    },
+    {
+      "title": "Harry Potter and The Chamber of Secret",
+      "cover": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyDaN5FijaQ_3OuhFtfYLkXDkAfv07RnKNiNwUzbvOjAE2V9EQ",
+      "desc": "Harry Potter disuruh mempersiapkan rumah untuk kunjungan dari klien potensial Vernon Dursley. Namun, setelah selesai, paman Dursley menyuruh Harry ke kamarnya. Di kamar, Harry bertemu Dobby si peri rumah, ia memperingatkan Harry untuk tidak kembali ke Hogwarts. Ketika Harry menolak, Dobby menyebabkan kekacauan di rumah dan membuat Harry merusak pertemuan Vernon. Vernon mengunci Harry di kamarnya untuk mencegah kembali ke Hogwarts. Namun, Ron, Fred, dan George Weasley tiba dengan mobil terbang mereka untuk menyelamatkan Harry dari cengkeraman Paman Vernon, yang sedang berusaha untuk menarik Harry kembali ke kamarnya. Harry kemudian dibawa ke The Burrow, rumah keluarga Weasley.",
+      "authorId": 4,
+      "genre": "Fantasy",
+      "author": "J.K Rowling",
+      "id": 18
+    },
+    {
+      "title": "Harry Potter and The Chamber of Secret",
+      "cover": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyDaN5FijaQ_3OuhFtfYLkXDkAfv07RnKNiNwUzbvOjAE2V9EQ",
+      "desc": "Harry Potter disuruh mempersiapkan rumah untuk kunjungan dari klien potensial Vernon Dursley. Namun, setelah selesai, paman Dursley menyuruh Harry ke kamarnya. Di kamar, Harry bertemu Dobby si peri rumah, ia memperingatkan Harry untuk tidak kembali ke Hogwarts. Ketika Harry menolak, Dobby menyebabkan kekacauan di rumah dan membuat Harry merusak pertemuan Vernon. Vernon mengunci Harry di kamarnya untuk mencegah kembali ke Hogwarts. Namun, Ron, Fred, dan George Weasley tiba dengan mobil terbang mereka untuk menyelamatkan Harry dari cengkeraman Paman Vernon, yang sedang berusaha untuk menarik Harry kembali ke kamarnya. Harry kemudian dibawa ke The Burrow, rumah keluarga Weasley.",
+      "authorId": 4,
+      "genre": "Fantasy",
+      "author": "J.K Rowling",
+      "id": 19
+    },
+    {
+      "title": "Harry Potter and The Chamber of Secret",
+      "cover": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyDaN5FijaQ_3OuhFtfYLkXDkAfv07RnKNiNwUzbvOjAE2V9EQ",
+      "desc": "Harry Potter disuruh mempersiapkan rumah untuk kunjungan dari klien potensial Vernon Dursley. Namun, setelah selesai, paman Dursley menyuruh Harry ke kamarnya. Di kamar, Harry bertemu Dobby si peri rumah, ia memperingatkan Harry untuk tidak kembali ke Hogwarts. Ketika Harry menolak, Dobby menyebabkan kekacauan di rumah dan membuat Harry merusak pertemuan Vernon. Vernon mengunci Harry di kamarnya untuk mencegah kembali ke Hogwarts. Namun, Ron, Fred, dan George Weasley tiba dengan mobil terbang mereka untuk menyelamatkan Harry dari cengkeraman Paman Vernon, yang sedang berusaha untuk menarik Harry kembali ke kamarnya. Harry kemudian dibawa ke The Burrow, rumah keluarga Weasley.",
+      "authorId": 4,
+      "genre": "Fantasy",
+      "author": "J.K Rowling",
+      "id": 20
+    },
+    {
+      "title": "Harry Potter and The Chamber of Secret",
+      "cover": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyDaN5FijaQ_3OuhFtfYLkXDkAfv07RnKNiNwUzbvOjAE2V9EQ",
+      "desc": "Harry Potter disuruh mempersiapkan rumah untuk kunjungan dari klien potensial Vernon Dursley. Namun, setelah selesai, paman Dursley menyuruh Harry ke kamarnya. Di kamar, Harry bertemu Dobby si peri rumah, ia memperingatkan Harry untuk tidak kembali ke Hogwarts. Ketika Harry menolak, Dobby menyebabkan kekacauan di rumah dan membuat Harry merusak pertemuan Vernon. Vernon mengunci Harry di kamarnya untuk mencegah kembali ke Hogwarts. Namun, Ron, Fred, dan George Weasley tiba dengan mobil terbang mereka untuk menyelamatkan Harry dari cengkeraman Paman Vernon, yang sedang berusaha untuk menarik Harry kembali ke kamarnya. Harry kemudian dibawa ke The Burrow, rumah keluarga Weasley.",
+      "authorId": 4,
+      "genre": "Fantasy",
+      "author": "J.K Rowling",
+      "id": 21
+    },
+    {
+      "title": "Harry Potter and The Chamber of Secret",
+      "cover": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyDaN5FijaQ_3OuhFtfYLkXDkAfv07RnKNiNwUzbvOjAE2V9EQ",
+      "desc": "Harry Potter disuruh mempersiapkan rumah untuk kunjungan dari klien potensial Vernon Dursley. Namun, setelah selesai, paman Dursley menyuruh Harry ke kamarnya. Di kamar, Harry bertemu Dobby si peri rumah, ia memperingatkan Harry untuk tidak kembali ke Hogwarts. Ketika Harry menolak, Dobby menyebabkan kekacauan di rumah dan membuat Harry merusak pertemuan Vernon. Vernon mengunci Harry di kamarnya untuk mencegah kembali ke Hogwarts. Namun, Ron, Fred, dan George Weasley tiba dengan mobil terbang mereka untuk menyelamatkan Harry dari cengkeraman Paman Vernon, yang sedang berusaha untuk menarik Harry kembali ke kamarnya. Harry kemudian dibawa ke The Burrow, rumah keluarga Weasley.",
+      "authorId": 4,
+      "genre": "Fantasy",
+      "author": "J.K Rowling",
+      "id": 22
+    },
+    {
+      "title": "Harry Potter and The Chamber of Secret",
+      "cover": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyDaN5FijaQ_3OuhFtfYLkXDkAfv07RnKNiNwUzbvOjAE2V9EQ",
+      "desc": "Harry Potter disuruh mempersiapkan rumah untuk kunjungan dari klien potensial Vernon Dursley. Namun, setelah selesai, paman Dursley menyuruh Harry ke kamarnya. Di kamar, Harry bertemu Dobby si peri rumah, ia memperingatkan Harry untuk tidak kembali ke Hogwarts. Ketika Harry menolak, Dobby menyebabkan kekacauan di rumah dan membuat Harry merusak pertemuan Vernon. Vernon mengunci Harry di kamarnya untuk mencegah kembali ke Hogwarts. Namun, Ron, Fred, dan George Weasley tiba dengan mobil terbang mereka untuk menyelamatkan Harry dari cengkeraman Paman Vernon, yang sedang berusaha untuk menarik Harry kembali ke kamarnya. Harry kemudian dibawa ke The Burrow, rumah keluarga Weasley.",
+      "authorId": 4,
+      "genre": "Fantasy",
+      "author": "J.K Rowling",
+      "id": 23
+    },
+    {
+      "title": "Harry Potter and The Chamber of Secret",
+      "cover": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyDaN5FijaQ_3OuhFtfYLkXDkAfv07RnKNiNwUzbvOjAE2V9EQ",
+      "desc": "Harry Potter disuruh mempersiapkan rumah untuk kunjungan dari klien potensial Vernon Dursley. Namun, setelah selesai, paman Dursley menyuruh Harry ke kamarnya. Di kamar, Harry bertemu Dobby si peri rumah, ia memperingatkan Harry untuk tidak kembali ke Hogwarts. Ketika Harry menolak, Dobby menyebabkan kekacauan di rumah dan membuat Harry merusak pertemuan Vernon. Vernon mengunci Harry di kamarnya untuk mencegah kembali ke Hogwarts. Namun, Ron, Fred, dan George Weasley tiba dengan mobil terbang mereka untuk menyelamatkan Harry dari cengkeraman Paman Vernon, yang sedang berusaha untuk menarik Harry kembali ke kamarnya. Harry kemudian dibawa ke The Burrow, rumah keluarga Weasley.",
+      "authorId": 4,
+      "genre": "Fantasy",
+      "author": "J.K Rowling",
+      "id": 24
+    },
+    {
+      "title": "Harry Potter and The Chamber of Secret",
+      "cover": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyDaN5FijaQ_3OuhFtfYLkXDkAfv07RnKNiNwUzbvOjAE2V9EQ",
+      "desc": "Harry Potter disuruh mempersiapkan rumah untuk kunjungan dari klien potensial Vernon Dursley. Namun, setelah selesai, paman Dursley menyuruh Harry ke kamarnya. Di kamar, Harry bertemu Dobby si peri rumah, ia memperingatkan Harry untuk tidak kembali ke Hogwarts. Ketika Harry menolak, Dobby menyebabkan kekacauan di rumah dan membuat Harry merusak pertemuan Vernon. Vernon mengunci Harry di kamarnya untuk mencegah kembali ke Hogwarts. Namun, Ron, Fred, dan George Weasley tiba dengan mobil terbang mereka untuk menyelamatkan Harry dari cengkeraman Paman Vernon, yang sedang berusaha untuk menarik Harry kembali ke kamarnya. Harry kemudian dibawa ke The Burrow, rumah keluarga Weasley.",
+      "authorId": 4,
+      "genre": "Fantasy",
+      "author": "J.K Rowling",
+      "id": 25
+    }
+  ]
+}
